@@ -1,0 +1,11 @@
+fecha,nombre,ciudad,producto,categoria,cantidad,total
+2025-01-12,Carlos,Orizaba,Celular,Electronica,3,18000
+2025-02-08,Daniela,Cordoba,Laptop,Electronica,2,24000
+2025-03-15,Fernando,Xalapa,Tablet,Electronica,4,12000
+2025-04-10,Gabriela,Veracruz,Impresora,Oficina,2,5000
+2025-05-18,Hector,Puebla,Monitor,Electronica,3,9000
+2025-06-05,Isabel,Orizaba,Teclado,Accesorios,6,3600
+2025-06-09,Jorge,Cordoba,Mouse,Accesorios,8,2400
+2025-06-11,Karla,Xalapa,Webcam,Accesorios,2,1800
+2025-06-15,Leonardo,Veracruz,Disco Duro,Almacenamiento,5,7500
+2025-06-20,Monica,Puebla,Memoria USB,Almacenamiento,10,2000
